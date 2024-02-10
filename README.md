@@ -1,7 +1,7 @@
 <h1 align="center"> Job Rotation </h1>
 
 <p align="center">
-Este projeto é um desfio da Target
+Este projeto é um desafio da Target
 </p>
 
 <p align="center">
