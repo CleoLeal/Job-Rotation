@@ -39,7 +39,7 @@ Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, fa
 
 <h4><b>Arquivos:</b></h4>
 
-> <h4>distribuidora.py e faturamento_diario.json</h4>
+> <h4>distribuidora_diario.py e faturamento_diario.json</h4>
 
 
 <h3><b>CASE 3</b></h3>
