@@ -1,0 +1,36 @@
+{
+    "faturamento_diario": [
+      {"dia_da_semana": "Segunda-feira", "valor": 1500},
+      {"dia_da_semana": "Terca-feira", "valor": 2200},
+      {"dia_da_semana": "Quarta-feira", "valor": 1800},
+      {"dia_da_semana": "Quinta-feira", "valor": 1900},
+      {"dia_da_semana": "Sexta-feira", "valor": 2500},
+      {"dia_da_semana": "Sabado", "valor": 0},
+      {"dia_da_semana": "Domingo", "valor": 0},
+      {"dia_da_semana": "Segunda-feira", "valor": 1200},
+      {"dia_da_semana": "Terca-feira", "valor": 2300},
+      {"dia_da_semana": "Quarta-feira", "valor": 2600},
+      {"dia_da_semana": "Quinta-feira", "valor": 1800},
+      {"dia_da_semana": "Sexta-feira", "valor": 1950},
+      {"dia_da_semana": "Sabado", "valor": 0},
+      {"dia_da_semana": "Domingo", "valor": 0},
+      {"dia_da_semana": "Segunda-feira", "valor": 2200},
+      {"dia_da_semana": "Terca-feira", "valor": 2000},
+      {"dia_da_semana": "Quarta-feira", "valor": 3000},
+      {"dia_da_semana": "Quinta-feira", "valor": 2300},
+      {"dia_da_semana": "Sexta-feira", "valor": 2700},
+      {"dia_da_semana": "Sabado", "valor": 0},
+      {"dia_da_semana": "Domingo", "valor": 0},
+      {"dia_da_semana": "Segunda-feira", "valor": 2800},
+      {"dia_da_semana": "Terca-feira", "valor": 2900},
+      {"dia_da_semana": "Quarta-feira", "valor": 2100},
+      {"dia_da_semana": "Quinta-feira", "valor": 2200},
+      {"dia_da_semana": "Sexta-feira", "valor": 2300},
+      {"dia_da_semana": "Sabado", "valor": 0},
+      {"dia_da_semana": "Domingo", "valor": 0},
+      {"dia_da_semana": "Segunda-feira", "valor": 2600},
+      {"dia_da_semana": "Terca-feira", "valor": 2700},
+      {"dia_da_semana": "Quarta-feira", "valor": 2550}
+    ]
+  }
+  
